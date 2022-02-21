@@ -17,7 +17,7 @@ If you have specific questions about the project, our [Telegram Group](https://t
 ### Feature Highlights:
 * Calculate word 12/24 of a BIP39 seed phrase
 * Create a 24-word BIP39 seed phrase with 99 dice rolls
-* Create a 24-word BIP39 seed phrase by taking a digital photo 
+* Create a 24-word BIP39 seed phrase by taking a digital photo
 * Temporarily store up to 3 seed phrases while device is powered
 * Guided interface to manually create a SeedQR for instant input [(demo video here)](https://youtu.be/c1-PqTNx1vc)
 * BIP39 passphrase / word 25 support
